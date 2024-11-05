@@ -16,7 +16,7 @@ export default function Pricing() {
         },
     ]
   return (
-    <div className="pricing">
+    <div className="pricing" id="Pricing">
       <h1>Our Pricing Plans</h1>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
       Lorem Ipsum has been the industry's standard dummy text ever</p>

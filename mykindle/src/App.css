@@ -3,6 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 header {
   padding: 20px;
@@ -306,6 +307,8 @@ header .link_style a:hover::after {
 @media (max-width: 640px) {
   .stats_content {
     padding: 10px;
+    justify-content: center;
+   
   }
   .stats_content .statstics {
     width: 300px !important;
@@ -315,7 +318,6 @@ header .link_style a:hover::after {
 @media (min-width: 641px) and (max-width: 768px) {
   .stats_content {
     flex-direction: column;
-    justify-content: center;
   }
   .stats_content .statstics {
     width: 500px;

@@ -7,7 +7,7 @@ import linked from "../components/imgs/linkedin-svgrepo-com.svg";
 import google from "../components/imgs/google-plus-svgrepo-com.svg";
 export default function Author() {
   return (
-    <div className="Author_info">
+    <div className="Author_info" id="Author_">
       <h1>About The Author</h1>
       <div className="Author">
         <div className="Author_image">

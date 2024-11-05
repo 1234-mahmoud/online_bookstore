@@ -34,12 +34,12 @@ export default function Header() {
         <span>Kindle</span>
       </div>
       <div className={showLinks?'link_style':'links'}>
-        <a href="">HOME</a>
-        <a href="">OVERVIEW</a>
-        <a href="">AUTHOR</a>
-        <a href="">PRICE</a>
-        <a href="">TESTIMONIALS</a>
-        <a href="">CONTACT</a>
+        <a href="#home">HOME</a>
+        <a href="#overview_">OVERVIEW</a>
+        <a href="#Author_">AUTHOR</a>
+        <a href="#Pricing">PRICE</a>
+        <a href="#">TESTIMONIALS</a>
+        <a href="#">CONTACT</a>
       </div>
       <div className="list_cont">
       <img className='list' src={list} alt="" onClick={SHOWLINKS}/>

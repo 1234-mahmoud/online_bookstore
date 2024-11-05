@@ -2,7 +2,7 @@ import React from "react";
 import ebook from "../components/ebook.jpg";
 export default function BookInfo() {
   return (
-    <div className="book_info">
+    <div className="book_info" id="home">
       <div className="info_cont">
         <div className="info">
           <h1>Perfect Landing Page Template to Present Your eBook</h1>
