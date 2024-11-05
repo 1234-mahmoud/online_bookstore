@@ -1,0 +1,47 @@
+#app {
+    height: 100%;
+  }
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+  
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .swiper {
+    width: 100%;
+    height:80%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: transparent;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Change the bullet color */
+.swiper-pagination-bullet {
+  background-color: transparent; /* Inactive bullet color */
+  opacity: 1;
+  padding: 5px;
+  margin-left:10px !important;
+  margin-right:10px !important;
+  border:1px solid white;
+}
+
+/* Change the active bullet color */
+.swiper-pagination-bullet-active {
+  background-color: rgb(255, 135, 34); /* Active bullet color (e.g., Tomato color) */
+}
