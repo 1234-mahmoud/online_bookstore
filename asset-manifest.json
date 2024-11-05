@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/online_bookstore/static/css/main.eb82871e.css",
+    "main.js": "/online_bookstore/static/js/main.4d4ace30.js",
+    "static/media/ebook.jpg": "/online_bookstore/static/media/ebook.3252121d1b1c2d68d0d7.jpg",
+    "static/media/author.jpg": "/online_bookstore/static/media/author.72d11a70c874d82d31df.jpg",
+    "static/media/pic1.jpeg": "/online_bookstore/static/media/pic1.bf4ba235c990c0fbe634.jpeg",
+    "static/media/cup-1-svgrepo-com.svg": "/online_bookstore/static/media/cup-1-svgrepo-com.db02023daf58988d92423617956cbf47.svg",
+    "static/media/person-team-svgrepo-com.svg": "/online_bookstore/static/media/person-team-svgrepo-com.6dc1f2c5fb66d574a1ccf017d4c78a91.svg",
+    "static/media/doc-on-doc-svgrepo-com.svg": "/online_bookstore/static/media/doc-on-doc-svgrepo-com.5e5a19bc6ed7bd622ef379da6df1929a.svg",
+    "static/media/books-book-svgrepo-com.svg": "/online_bookstore/static/media/books-book-svgrepo-com.981ccca3d3867decdbcfe5946ba548ef.svg",
+    "static/media/doc11-text-svgrepo-com.svg": "/online_bookstore/static/media/doc11-text-svgrepo-com.e103c87fce21c29c6b948542e8fc8050.svg",
+    "static/media/list-arrow-down-minimalistic-svgrepo-com.svg": "/online_bookstore/static/media/list-arrow-down-minimalistic-svgrepo-com.68c45c2fac667e46eb6376463ca0decf.svg",
+    "static/media/twitter-rounded-svgrepo-com.svg": "/online_bookstore/static/media/twitter-rounded-svgrepo-com.0aaf5b438053c5e3441cffef9296df55.svg",
+    "static/media/google-plus-svgrepo-com.svg": "/online_bookstore/static/media/google-plus-svgrepo-com.e0efef8d772c647ba3609e7cf9948401.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/online_bookstore/static/media/linkedin-svgrepo-com.560f1b9a7b856a60c119f0c962e7a82a.svg",
+    "static/media/facebook-rounded-svgrepo-com.svg": "/online_bookstore/static/media/facebook-rounded-svgrepo-com.aec3f91e4cf0a23232b4549282df838f.svg",
+    "index.html": "/online_bookstore/index.html",
+    "main.eb82871e.css.map": "/online_bookstore/static/css/main.eb82871e.css.map",
+    "main.4d4ace30.js.map": "/online_bookstore/static/js/main.4d4ace30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb82871e.css",
+    "static/js/main.4d4ace30.js"
+  ]
+}
